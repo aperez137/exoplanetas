@@ -1,17 +1,17 @@
 # EXOPLANETAS
 
-## CONTENIDO
+## CONTENTS
 
-- scripts: Contiene el codigo fuente en lenguaje Python3.
-- descriptors: Contiene los archivos de configuración YAML.
-- input: Contiene los ficheros con los datos de entrada.
+- scripts: Contains the source code in Python3 language.
+- descriptors: Contains the YAML configuration files.
+- input: Contains the files with the input data.
 
-## MODO DE USO
+## MODE OF USE
 
-Utilice los scripts para convertir los ficheros DAT del directorio input en formato CSV y para completar los datos faltantes de la columna de error de flujo. Luego utilice los decscriptores YAML como guía para configurar la ejecución del paquete Sherlock (https://github.com/sherlock-project/sherlock).
+Use the scripts to convert the DAT files in the input directory to CSV format and to fill in the missing data in the flow error column. Then use the YAML descriptors as a guide to configure the Sherlock package to run (https://github.com/sherlock-project/sherlock).
 
-## RESULTADOS
+## RESULTS
 
-Los resultados obtenidos para las estrellas estudiadas pueden encontrarse en el siguiente enlace:
+The results obtained for the stars studied can be found at the following link:
 
 - https://starwalker.app/exoplanetas/
